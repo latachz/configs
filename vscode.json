@@ -1,0 +1,11 @@
+{
+    "workbench.iconTheme": "vscode-great-icons",
+    "workbench.colorTheme": "One Dark Pro",
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 18,
+    "window.zoomLevel": 1,
+    "editor.tabSize": 2,
+    "git.autofetch": true,
+    "liveServer.settings.donotShowInfoMsg": true
+  }
